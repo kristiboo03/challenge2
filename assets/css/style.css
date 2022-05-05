@@ -1,0 +1,29 @@
+header nav ul {
+    margin: 7px 0px;
+}
+
+.project-name {
+    padding: 0;
+    padding: 10;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: pink;
+    justify-content: space-between;
+}
+
+.hero {
+    margin: 0;
+    padding: 25px;
+    background-image: url("../images/Wallpaper.jpg")
+}
+
+#about-me {
+    align-items: center;
+    position: relative;
+}
+
+.about-me {
+    position: relative;  
+}
+.touch {
+    position: relative;
+}
